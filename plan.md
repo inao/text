@@ -46,10 +46,10 @@ Cursorが理解しやすいように変更したいです。
 - [x] 各ファイルの役割を定義する
 
 ### Phase 3: ルールファイルの作成
-- [ ] `cursor-rules/outline-rules.md`を作成（見出し構造ルール）
-- [ ] `cursor-rules/sentence-rules.md`を作成（文章構成ルール）
-- [ ] `cursor-rules/notation-rules.md`を作成（表記・約物ルール）
-- [ ] `cursor-rules/patterns.md`を作成（検出・修正パターン）
+- [x] `cursor-rules/outline-rules.md`を作成（見出し構造ルール）
+- [x] `cursor-rules/sentence-rules.md`を作成（文章構成ルール）
+- [x] `cursor-rules/notation-rules.md`を作成（表記・約物ルール）
+- [x] `cursor-rules/patterns.md`を作成（検出・修正パターン）
 
 ### Phase 4: チェックリストの作成
 - [ ] `checklists/outline-checklist.md`を作成（見出しチェック）
