@@ -1,0 +1,6 @@
+# 一時ファイル・フォルダ
+temp/
+sample/
+
+# macOS
+.DS_Store
