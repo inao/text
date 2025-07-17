@@ -52,9 +52,9 @@ Cursorが理解しやすいように変更したいです。
 - [x] `cursor-rules/patterns.md`を作成（検出・修正パターン）
 
 ### Phase 4: チェックリストの作成
-- [ ] `checklists/outline-checklist.md`を作成（見出しチェック）
-- [ ] `checklists/sentence-checklist.md`を作成（文章チェック）
-- [ ] `checklists/notation-checklist.md`を作成（表記チェック）
+- [x] `checklists/outline-checklist.md`を作成（見出しチェック）
+- [x] `checklists/sentence-checklist.md`を作成（文章チェック）
+- [x] `checklists/notation-checklist.md`を作成（表記チェック）
 
 ### Phase 5: 自動検出パターンの実装
 - [ ] 冗長表現の検出パターンを実装
